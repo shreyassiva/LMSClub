@@ -1,3 +1,3 @@
 # LMSClub
-Lawson Middle school programming club.
+Lawson Middle School programming club.
 by Shreyas
